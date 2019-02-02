@@ -44,7 +44,7 @@ const tick = grid => {
       }
     })
   });
-  
+
   return newGrid;
 }
 
